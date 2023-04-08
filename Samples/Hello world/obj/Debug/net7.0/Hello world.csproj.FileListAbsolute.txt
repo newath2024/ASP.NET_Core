@@ -1,0 +1,26 @@
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\appsettings.Development.json
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\appsettings.json
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\Hello world.exe
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\Hello world.deps.json
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\Hello world.runtimeconfig.json
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\Hello world.dll
+D:\ASP.NET_Core\Samples\Hello world\bin\Debug\net7.0\Hello world.pdb
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.csproj.AssemblyReference.cache
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfoInputs.cache
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfo.cs
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.csproj.CoreCompileInputs.cache
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.MvcApplicationPartsAssemblyInfo.cache
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.Hello world.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.build.Hello world.props
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hello world.props
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hello world.props
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets.build.json
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\staticwebassets.development.json
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\scopedcss\bundle\Hello world.styles.css
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.dll
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\refint\Hello world.dll
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.pdb
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\Hello world.genruntimeconfig.cache
+D:\ASP.NET_Core\Samples\Hello world\obj\Debug\net7.0\ref\Hello world.dll
